@@ -6,8 +6,9 @@ Are you open to living somewhere new? If so, which country would be the place to
 ### Files in the repository
 data
 
---> happiness_analysis  : code for data cleaning, wrangling and visualizing
---> WHR2023             : data basis as provided by Ajaypal Singh: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023?resource=download (kaggle)
+--> happiness_analysis.py  : code for data cleaning, wrangling and visualizing
+
+--> WHR2023.csv             : data basis as provided by Ajaypal Singh: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023?resource=download (kaggle)
 
 
 README.md
