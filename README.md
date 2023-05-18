@@ -19,7 +19,7 @@ Libraries needed are: pandas, sys, numpy, matplotlib.pyplot, pylab and scipy.sta
 
 To run the command simply type following in the console from the respective directory: "python happiness_analysis.py WHR2023.csv"
 
-Link to my respective medium post: .... 
+Link to my respective medium post: https://medium.com/@akemre_69123/world-happiness-report-who-is-happy-1873b2921793
 
 ____________________________________________________
 
