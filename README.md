@@ -21,11 +21,11 @@ To run the command simply type following in the console from the respective dire
 
 Link to my respective medium post: .... 
 
-
+____________________________________________________
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2023] [Emre]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
