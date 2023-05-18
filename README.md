@@ -10,6 +10,8 @@ data
 
 --> WHR2023.csv             : data basis as provided by Ajaypal Singh: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023?resource=download (kaggle)
 
+--> happiness_analysis.ipynb: jupyter notebook for data cleaning, wrangling and visualizing
+
 
 README.md
 
